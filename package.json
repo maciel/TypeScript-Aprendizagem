@@ -1,0 +1,30 @@
+{
+  "name": "typescript-aprendizagem",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000y\u0000p\u0000e\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000-\u0000A\u0000p\u0000r\u0000e\u0000n\u0000d\u0000i\u0000z\u0000a\u0000g\u0000e\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciel/TypeScript-Aprendizagem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciel/TypeScript-Aprendizagem/issues"
+  },
+  "homepage": "https://github.com/maciel/TypeScript-Aprendizagem#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.6.0",
+    "@typescript-eslint/parser": "^6.6.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/node": "^20.5.9",
+    "eslint": "^8.48.0",
+    "ts-node": "^10.9.1"
+  }
+}
